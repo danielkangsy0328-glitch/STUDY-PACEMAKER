@@ -1,0 +1,6 @@
+{
+  "name": "Study Pacemaker",
+  "description": "중학생을 위한 1:1 맞춤형 공부 페이스메이커 - 20~30분 몰입 세션, 난이도별 타임라인 플래너, 학습 통계 리포트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
